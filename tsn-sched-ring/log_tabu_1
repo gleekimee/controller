@@ -1,0 +1,63 @@
+max_slot_cycle: 2000
+repeat flag: 0
+Increment [0]th: slot_cycle: 2000, sched_cycle: 60, suc_num: 297, back_num: 0
+Increment [0]th: flow_num: 5000, loop_num: 1287, time_consumed: 34.520000, resource_ratio: 0.382146
+repeat flag: 0
+Increment [1]th: slot_cycle: 1000, sched_cycle: 120, suc_num: 462, back_num: 0
+Increment [1]th: flow_num: 5000, loop_num: 1963, time_consumed: 111.210000, resource_ratio: 0.360563
+repeat flag: 0
+Increment [2]th: slot_cycle: 500, sched_cycle: 240, suc_num: 706, back_num: 0
+Increment [2]th: flow_num: 5000, loop_num: 3207, time_consumed: 318.870000, resource_ratio: 0.336339
+repeat flag: 0
+Increment [3]th: slot_cycle: 250, sched_cycle: 480, suc_num: 1039, back_num: 0
+Increment [3]th: flow_num: 5000, loop_num: 2467, time_consumed: 595.040000, resource_ratio: 0.307706
+repeat flag: 0
+Increment [4]th: slot_cycle: 125, sched_cycle: 960, suc_num: 1508, back_num: 0
+Increment [4]th: flow_num: 5000, loop_num: 3895, time_consumed: 1335.900000, resource_ratio: 0.286344
+repeat flag: 0
+Restart [0]th: slot_cycle: 2000, sched_cycle: 60, suc_num: 294
+Restart [0]th: flow_num: 5000, loop_num: 1342, time_consumed: 37.010000, resource_ratio: 0.389750
+repeat flag: 0
+Restart [1]th: slot_cycle: 1000, sched_cycle: 120, suc_num: 461
+Restart [1]th: flow_num: 5000, loop_num: 2477, time_consumed: 134.310000, resource_ratio: 0.369729
+repeat flag: 0
+Restart [2]th: slot_cycle: 500, sched_cycle: 240, suc_num: 701
+Restart [2]th: flow_num: 5000, loop_num: 2415, time_consumed: 292.500000, resource_ratio: 0.341104
+repeat flag: 0
+Restart [3]th: slot_cycle: 250, sched_cycle: 480, suc_num: 1042
+Restart [3]th: flow_num: 5000, loop_num: 2736, time_consumed: 595.310000, resource_ratio: 0.313964
+repeat flag: 0
+Restart [4]th: slot_cycle: 125, sched_cycle: 960, suc_num: 1514
+Restart [4]th: flow_num: 5000, loop_num: 4765, time_consumed: 1511.800000, resource_ratio: 0.290663
+
+repeat flag: 0
+Increment [0]th: slot_cycle: 2000, sched_cycle: 60, suc_num: 88, back_num: 0
+Increment [0]th: flow_num: 5000, loop_num: 502, time_consumed: 14.470000, resource_ratio: 0.298417
+repeat flag: 0
+Increment [1]th: slot_cycle: 1000, sched_cycle: 120, suc_num: 237, back_num: 0
+Increment [1]th: flow_num: 5000, loop_num: 890, time_consumed: 51.150000, resource_ratio: 0.311396
+repeat flag: 0
+Increment [2]th: slot_cycle: 500, sched_cycle: 240, suc_num: 477, back_num: 0
+Increment [2]th: flow_num: 5000, loop_num: 1820, time_consumed: 175.300000, resource_ratio: 0.309974
+repeat flag: 0
+Increment [3]th: slot_cycle: 250, sched_cycle: 480, suc_num: 836, back_num: 0
+Increment [3]th: flow_num: 5000, loop_num: 2184, time_consumed: 433.800000, resource_ratio: 0.301497
+repeat flag: 0
+Increment [4]th: slot_cycle: 125, sched_cycle: 960, suc_num: 1322, back_num: 0
+Increment [4]th: flow_num: 5000, loop_num: 3682, time_consumed: 1197.140000, resource_ratio: 0.284806
+repeat flag: 0
+Restart [0]th: slot_cycle: 2000, sched_cycle: 60, suc_num: 91
+Restart [0]th: flow_num: 5000, loop_num: 501, time_consumed: 14.390000, resource_ratio: 0.300542
+repeat flag: 0
+Restart [1]th: slot_cycle: 1000, sched_cycle: 120, suc_num: 179
+Restart [1]th: flow_num: 5000, loop_num: 532, time_consumed: 35.990000, resource_ratio: 0.296490
+repeat flag: 0
+Restart [2]th: slot_cycle: 500, sched_cycle: 240, suc_num: 356
+Restart [2]th: flow_num: 5000, loop_num: 1044, time_consumed: 105.050000, resource_ratio: 0.292245
+repeat flag: 0
+Restart [3]th: slot_cycle: 250, sched_cycle: 480, suc_num: 629
+Restart [3]th: flow_num: 5000, loop_num: 1429, time_consumed: 268.520000, resource_ratio: 0.289979
+repeat flag: 0
+Restart [4]th: slot_cycle: 125, sched_cycle: 960, suc_num: 1099
+Restart [4]th: flow_num: 5000, loop_num: 2424, time_consumed: 754.160000, resource_ratio: 0.285156
+
