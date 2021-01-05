@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<input_file>
+  <flow_feature>
+    <entry flow_id="0" smac="22:22:22:22:22:22" dmac="11:11:11:11:11:11" src_ip="192.168.1.11" dst_ip="192.168.1.12" src_port="1111" dst_port="2222" protocol_type="17" period="20" dispatch_pit="2" receive_pit="6" pkt_size="10" deadline="1000"/>
+    <entry flow_id="1" smac="44:44:44:44:44:44" dmac="33:33:33:33:33:33" src_ip="192.168.1.21" dst_ip="192.168.1.22" src_port="1111" dst_port="2222" protocol_type="17" period="40" dispatch_pit="2" receive_pit="6" pkt_size="10" deadline="2000"/>
+    <entry flow_id="2" smac="22:22:22:22:22:22" dmac="11:11:11:11:11:11" src_ip="192.168.1.11" dst_ip="192.168.1.12" src_port="1111" dst_port="2222" protocol_type="17" period="60" dispatch_pit="2" receive_pit="6" pkt_size="10" deadline="1000"/>
+    <entry flow_id="3" smac="44:44:44:44:44:44" dmac="33:33:33:33:33:33" src_ip="192.168.1.21" dst_ip="192.168.1.22" src_port="1111" dst_port="2222" protocol_type="17" period="80" dispatch_pit="2" receive_pit="6" pkt_size="10" deadline="2000"/>
+    <entry flow_id="4" smac="22:22:22:22:22:22" dmac="11:11:11:11:11:11" src_ip="192.168.1.11" dst_ip="192.168.1.12" src_port="1111" dst_port="2222" protocol_type="17" period="100" dispatch_pit="2" receive_pit="6" pkt_size="10" deadline="1000"/>
+
+    <entry flow_id="5" smac="22:22:22:22:22:22" dmac="11:11:11:11:11:11" src_ip="192.168.1.11" dst_ip="192.168.1.12" src_port="1111" dst_port="2222" protocol_type="17" period="20" dispatch_pit="2" receive_pit="6" pkt_size="10" deadline="1000"/>
+    <entry flow_id="6" smac="44:44:44:44:44:44" dmac="33:33:33:33:33:33" src_ip="192.168.1.21" dst_ip="192.168.1.22" src_port="1111" dst_port="2222" protocol_type="17" period="40" dispatch_pit="2" receive_pit="6" pkt_size="10" deadline="2000"/>
+    <entry flow_id="7" smac="22:22:22:22:22:22" dmac="11:11:11:11:11:11" src_ip="192.168.1.11" dst_ip="192.168.1.12" src_port="1111" dst_port="2222" protocol_type="17" period="60" dispatch_pit="2" receive_pit="6" pkt_size="10" deadline="1000"/>
+    <entry flow_id="8" smac="44:44:44:44:44:44" dmac="33:33:33:33:33:33" src_ip="192.168.1.21" dst_ip="192.168.1.22" src_port="1111" dst_port="2222" protocol_type="17" period="80" dispatch_pit="2" receive_pit="6" pkt_size="10" deadline="2000"/>
+    <entry flow_id="9" smac="22:22:22:22:22:22" dmac="11:11:11:11:11:11" src_ip="192.168.1.11" dst_ip="192.168.1.12" src_port="1111" dst_port="2222" protocol_type="17" period="100" dispatch_pit="2" receive_pit="6" pkt_size="10" deadline="1000"/>
+
+    <entry flow_id="10" smac="22:22:22:22:22:22" dmac="11:11:11:11:11:11" src_ip="192.168.1.11" dst_ip="192.168.1.12" src_port="1111" dst_port="2222" protocol_type="17" period="20" dispatch_pit="2" receive_pit="6" pkt_size="10" deadline="1000"/>
+    <entry flow_id="11" smac="44:44:44:44:44:44" dmac="33:33:33:33:33:33" src_ip="192.168.1.21" dst_ip="192.168.1.22" src_port="1111" dst_port="2222" protocol_type="17" period="40" dispatch_pit="2" receive_pit="6" pkt_size="10" deadline="2000"/>
+    <entry flow_id="12" smac="22:22:22:22:22:22" dmac="11:11:11:11:11:11" src_ip="192.168.1.11" dst_ip="192.168.1.12" src_port="1111" dst_port="2222" protocol_type="17" period="60" dispatch_pit="2" receive_pit="6" pkt_size="10" deadline="1000"/>
+    <entry flow_id="13" smac="44:44:44:44:44:44" dmac="33:33:33:33:33:33" src_ip="192.168.1.21" dst_ip="192.168.1.22" src_port="1111" dst_port="2222" protocol_type="17" period="80" dispatch_pit="2" receive_pit="6" pkt_size="10" deadline="2000"/>
+    <entry flow_id="14" smac="22:22:22:22:22:22" dmac="11:11:11:11:11:11" src_ip="192.168.1.11" dst_ip="192.168.1.12" src_port="1111" dst_port="2222" protocol_type="17" period="100" dispatch_pit="2" receive_pit="6" pkt_size="10" deadline="1000"/>
+
+    <entry flow_id="15" smac="22:22:22:22:22:22" dmac="11:11:11:11:11:11" src_ip="192.168.1.11" dst_ip="192.168.1.12" src_port="1111" dst_port="2222" protocol_type="17" period="20" dispatch_pit="2" receive_pit="6" pkt_size="10" deadline="1000"/>
+    <entry flow_id="16" smac="44:44:44:44:44:44" dmac="33:33:33:33:33:33" src_ip="192.168.1.21" dst_ip="192.168.1.22" src_port="1111" dst_port="2222" protocol_type="17" period="40" dispatch_pit="2" receive_pit="6" pkt_size="10" deadline="2000"/>
+    <entry flow_id="17" smac="22:22:22:22:22:22" dmac="11:11:11:11:11:11" src_ip="192.168.1.11" dst_ip="192.168.1.12" src_port="1111" dst_port="2222" protocol_type="17" period="60" dispatch_pit="2" receive_pit="6" pkt_size="10" deadline="1000"/>
+    <entry flow_id="18" smac="44:44:44:44:44:44" dmac="33:33:33:33:33:33" src_ip="192.168.1.21" dst_ip="192.168.1.22" src_port="1111" dst_port="2222" protocol_type="17" period="80" dispatch_pit="2" receive_pit="6" pkt_size="10" deadline="2000"/>
+    <entry flow_id="19" smac="22:22:22:22:22:22" dmac="11:11:11:11:11:11" src_ip="192.168.1.11" dst_ip="192.168.1.12" src_port="1111" dst_port="2222" protocol_type="17" period="100" dispatch_pit="2" receive_pit="6" pkt_size="10" deadline="1000"/>
+
+    <entry flow_id="20" smac="22:22:22:22:22:22" dmac="11:11:11:11:11:11" src_ip="192.168.1.11" dst_ip="192.168.1.12" src_port="1111" dst_port="2222" protocol_type="17" period="20" dispatch_pit="2" receive_pit="6" pkt_size="10" deadline="1000"/>
+    <entry flow_id="21" smac="44:44:44:44:44:44" dmac="33:33:33:33:33:33" src_ip="192.168.1.21" dst_ip="192.168.1.22" src_port="1111" dst_port="2222" protocol_type="17" period="40" dispatch_pit="2" receive_pit="6" pkt_size="10" deadline="2000"/>
+    <entry flow_id="22" smac="22:22:22:22:22:22" dmac="11:11:11:11:11:11" src_ip="192.168.1.11" dst_ip="192.168.1.12" src_port="1111" dst_port="2222" protocol_type="17" period="60" dispatch_pit="2" receive_pit="6" pkt_size="10" deadline="1000"/>
+    <entry flow_id="23" smac="44:44:44:44:44:44" dmac="33:33:33:33:33:33" src_ip="192.168.1.21" dst_ip="192.168.1.22" src_port="1111" dst_port="2222" protocol_type="17" period="80" dispatch_pit="2" receive_pit="6" pkt_size="10" deadline="2000"/>
+    <entry flow_id="24" smac="22:22:22:22:22:22" dmac="11:11:11:11:11:11" src_ip="192.168.1.11" dst_ip="192.168.1.12" src_port="1111" dst_port="2222" protocol_type="17" period="100" dispatch_pit="2" receive_pit="6" pkt_size="10" deadline="1000"/>
+
+    <entry flow_id="25" smac="22:22:22:22:22:22" dmac="11:11:11:11:11:11" src_ip="192.168.1.11" dst_ip="192.168.1.12" src_port="1111" dst_port="2222" protocol_type="17" period="20" dispatch_pit="2" receive_pit="6" pkt_size="10" deadline="1000"/>
+    <entry flow_id="26" smac="44:44:44:44:44:44" dmac="33:33:33:33:33:33" src_ip="192.168.1.21" dst_ip="192.168.1.22" src_port="1111" dst_port="2222" protocol_type="17" period="40" dispatch_pit="2" receive_pit="6" pkt_size="10" deadline="2000"/>
+    <entry flow_id="27" smac="22:22:22:22:22:22" dmac="11:11:11:11:11:11" src_ip="192.168.1.11" dst_ip="192.168.1.12" src_port="1111" dst_port="2222" protocol_type="17" period="60" dispatch_pit="2" receive_pit="6" pkt_size="10" deadline="1000"/>
+    <entry flow_id="28" smac="44:44:44:44:44:44" dmac="33:33:33:33:33:33" src_ip="192.168.1.21" dst_ip="192.168.1.22" src_port="1111" dst_port="2222" protocol_type="17" period="80" dispatch_pit="2" receive_pit="6" pkt_size="10" deadline="2000"/>
+    <entry flow_id="29" smac="22:22:22:22:22:22" dmac="11:11:11:11:11:11" src_ip="192.168.1.11" dst_ip="192.168.1.12" src_port="1111" dst_port="2222" protocol_type="17" period="100" dispatch_pit="2" receive_pit="6" pkt_size="10" deadline="1000"/> 
+
+    <entry flow_id="30" smac="22:22:22:22:22:22" dmac="11:11:11:11:11:11" src_ip="192.168.1.11" dst_ip="192.168.1.12" src_port="1111" dst_port="2222" protocol_type="17" period="20" dispatch_pit="2" receive_pit="6" pkt_size="10" deadline="1000"/>
+    <entry flow_id="31" smac="44:44:44:44:44:44" dmac="33:33:33:33:33:33" src_ip="192.168.1.21" dst_ip="192.168.1.22" src_port="1111" dst_port="2222" protocol_type="17" period="40" dispatch_pit="2" receive_pit="6" pkt_size="10" deadline="2000"/>
+  </flow_feature>
+ 
+  <path>
+    <flow id="0">
+      <sw id="3" inport="4" outport="0"/>
+      <sw id="1" inport="0" outport="8"/>
+    </flow>
+
+    <flow id="1">
+      <sw id="3" inport="8" outport="2"/>
+      <sw id="2" inport="2" outport="8"/>
+    </flow>
+
+    <flow id="2">
+      <sw id="3" inport="4" outport="0"/>
+      <sw id="1" inport="0" outport="8"/>
+    </flow>
+
+    <flow id="3">
+      <sw id="3" inport="8" outport="2"/>
+      <sw id="2" inport="2" outport="8"/>
+    </flow>
+
+    <flow id="4">
+      <sw id="3" inport="4" outport="0"/>
+      <sw id="1" inport="0" outport="8"/>
+    </flow>
+
+    <flow id="5">
+      <sw id="3" inport="8" outport="2"/>
+      <sw id="2" inport="2" outport="8"/>
+    </flow>
+    
+    <flow id="6">
+      <sw id="3" inport="4" outport="0"/>
+      <sw id="1" inport="0" outport="8"/>
+    </flow>
+
+    <flow id="7">
+      <sw id="3" inport="8" outport="2"/>
+      <sw id="2" inport="2" outport="8"/>
+    </flow>
+    
+    <flow id="8">
+      <sw id="3" inport="4" outport="0"/>
+      <sw id="1" inport="0" outport="8"/>
+    </flow>
+
+    <flow id="9">
+      <sw id="3" inport="8" outport="2"/>
+      <sw id="2" inport="2" outport="8"/>
+    </flow>
+    
+    <flow id="10">
+      <sw id="3" inport="4" outport="0"/>
+      <sw id="1" inport="0" outport="8"/>
+    </flow>
+
+    <flow id="11">
+      <sw id="3" inport="8" outport="2"/>
+      <sw id="2" inport="2" outport="8"/>
+    </flow>
+    
+    <flow id="12">
+      <sw id="3" inport="4" outport="0"/>
+      <sw id="1" inport="0" outport="8"/>
+    </flow>
+
+    <flow id="13">
+      <sw id="3" inport="8" outport="2"/>
+      <sw id="2" inport="2" outport="8"/>
+    </flow>
+
+    <flow id="14">
+      <sw id="3" inport="8" outport="2"/>
+      <sw id="2" inport="2" outport="8"/>
+    </flow>
+
+    <flow id="15">
+      <sw id="3" inport="4" outport="0"/>
+      <sw id="1" inport="0" outport="8"/>
+    </flow>
+
+    <flow id="16">
+      <sw id="3" inport="8" outport="2"/>
+      <sw id="2" inport="2" outport="8"/>
+    </flow>
+
+    <flow id="17">
+      <sw id="3" inport="4" outport="0"/>
+      <sw id="1" inport="0" outport="8"/>
+    </flow>
+
+    <flow id="18">
+      <sw id="3" inport="8" outport="2"/>
+      <sw id="2" inport="2" outport="8"/>
+    </flow>
+
+    <flow id="19">
+      <sw id="3" inport="4" outport="0"/>
+      <sw id="1" inport="0" outport="8"/>
+    </flow>
+
+    <flow id="20">
+      <sw id="3" inport="8" outport="2"/>
+      <sw id="2" inport="2" outport="8"/>
+    </flow>
+    
+    <flow id="21">
+      <sw id="3" inport="4" outport="0"/>
+      <sw id="1" inport="0" outport="8"/>
+    </flow>
+
+    <flow id="22">
+      <sw id="3" inport="8" outport="2"/>
+      <sw id="2" inport="2" outport="8"/>
+    </flow>
+    
+    <flow id="23">
+      <sw id="3" inport="4" outport="0"/>
+      <sw id="1" inport="0" outport="8"/>
+    </flow>
+
+    <flow id="24">
+      <sw id="3" inport="8" outport="2"/>
+      <sw id="2" inport="2" outport="8"/>
+    </flow>
+    
+    <flow id="25">
+      <sw id="3" inport="4" outport="0"/>
+      <sw id="1" inport="0" outport="8"/>
+    </flow>
+
+    <flow id="26">
+      <sw id="3" inport="8" outport="2"/>
+      <sw id="2" inport="2" outport="8"/>
+    </flow>
+    
+    <flow id="27">
+      <sw id="3" inport="4" outport="0"/>
+      <sw id="1" inport="0" outport="8"/>
+    </flow>
+
+    <flow id="28">
+      <sw id="3" inport="8" outport="2"/>
+      <sw id="2" inport="2" outport="8"/>
+    </flow>
+
+    <flow id="29">
+      <sw id="3" inport="8" outport="2"/>
+      <sw id="2" inport="2" outport="8"/>
+    </flow>
+    <flow id="30">
+      <sw id="3" inport="4" outport="0"/>
+      <sw id="1" inport="0" outport="8"/>
+    </flow>
+
+    <flow id="31">
+      <sw id="3" inport="8" outport="2"/>
+      <sw id="2" inport="2" outport="8"/>
+    </flow> 
+
+  </path>
+
+  <switch>
+      <entry imac="14'h0001">1</entry>
+      <entry imac="14'h0002">2</entry>
+      <entry imac="14'h0003">3</entry>
+      <entry imac="14'h0004">4</entry>
+  </switch>
+
+  <end_station>
+      <entry imac="14'h0010">16</entry>
+      <entry imac="14'h0020">32</entry>
+      <entry imac="14'h0030">48</entry>
+      <entry imac="14'h0040">64</entry>
+  </end_station>
+
+  <resource>
+      <queue_size>50</queue_size>
+      <inject_buffer_num>32</inject_buffer_num>
+      <submit_buffer_num>32</submit_buffer_num>
+  </resource>
+
+</input_file>
