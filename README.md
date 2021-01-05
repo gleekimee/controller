@@ -1,2 +1,2 @@
 # controller
-基于Qbv调度模型的控制器
+基于CQF的离线规划工具
